@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print string of characters
+ * main - Prints "Programminging is like building a multilinual puzzle
  *
  * Return: Always 0 (Success)
  */

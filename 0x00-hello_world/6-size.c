@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Print format and data
+ * main - Prints the size of various types based on conputer
  *
  * Return: Always 0 (Success)
  */
